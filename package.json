@@ -1,5 +1,5 @@
 {
-  "name": "joblist-app",
+  "name": "dashboard-app",
   "version": "0.1.0",
   "author": "polina che",
   "private": true,
@@ -8,7 +8,8 @@
     "react-dom": "^17.0.2",
     "react-redux": "^7.2.6",
     "react-scripts": "^5.0.1",
-    "redux": "^4.1.2"
+    "redux": "^4.1.2",
+    "redux-persist": "^6.0.0"
   },
   "scripts": {
     "start": "react-scripts start",
